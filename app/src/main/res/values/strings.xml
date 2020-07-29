@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sqlitedemo</string>
+    <string name="customerName">Customer Name</string>
+    <string name="customerAge">Customer Age</string>
+    <string name="Activecutomer">Active Customer</string>
+    <string name="search_item">Search item</string>
+</resources>
